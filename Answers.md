@@ -1,5 +1,7 @@
 # Practical Session #1: Introduction
 
+Ce TP, ainsi que les autres, furent effectués dans un autre Repository. Je n'avais pas compris à la base qu'il fallait fork. L'historique des commits n'est donc pas à jour ici, mais vous pouvez aller voir dans ce repo Git : https://github.com/TheKingHydra/VV.git.
+
 # Exercice 1. (Guillaume)
 https://cointelegraph.com/news/thorchain-network-halted-following-software-bug
 
